@@ -20,3 +20,13 @@ We have three different background maps that can be selected based on the users 
 
 Additionally the user may select whether or not they wish to see the tectonic plates, Earthquakes (meaning all available in the API) or Major Earthquakes (earthquakes with a magnitude of 4.5 or higher). 
 
+![This is an image](https://github.com/chrisagordon/Earthquakes_w-t_JS_and_APIs/blob/main/Challenge/Static/Images/Tectonic%20Plates%20-%20Earthquake%20APIs.PNG) 
+
+Earthquakes 
+
+![This is an image](https://github.com/chrisagordon/Earthquakes_w-t_JS_and_APIs/blob/main/Challenge/Static/Images/Easrthquakes%20-%20Earthquake%20APIs.PNG) 
+
+Major Earthquakes 
+
+![This is an image](https://github.com/chrisagordon/Earthquakes_w-t_JS_and_APIs/blob/main/Challenge/Static/Images/Only%20Major%20Earthquakes%20-%20Earthquake%20APIs.PNG)
+
