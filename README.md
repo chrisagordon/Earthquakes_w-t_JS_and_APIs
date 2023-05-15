@@ -30,3 +30,9 @@ Major Earthquakes
 
 ![This is an image](https://github.com/chrisagordon/Earthquakes_w-t_JS_and_APIs/blob/main/Challenge/Static/Images/Only%20Major%20Earthquakes%20-%20Earthquake%20APIs.PNG)
 
+## 3. SUMMARY
+- From what was taught in class an interactive webpage with public JSON data about earthquakes was able to be made. A user can adjust what information is displayed be it a different map or the severity of the earthquakes
+- In order to use this repository to run the map, it must be downloaded and hosted as a local server on your computer 
+- Additional Visualization Recommendations
+  1) Allow a user to type in a range of what they would like displayed into an input box 
+  2) Capabilities to increase the time range, would require a different data source
